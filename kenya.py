@@ -1,1 +1,1 @@
-print("Jambo Tanzania")
+print("Today is hot")
